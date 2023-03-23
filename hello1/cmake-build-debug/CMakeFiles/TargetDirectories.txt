@@ -1,0 +1,3 @@
+/mnt/c/Users/Josean/CLionProjects/hello1/cmake-build-debug/CMakeFiles/hello1.dir
+/mnt/c/Users/Josean/CLionProjects/hello1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Josean/CLionProjects/hello1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

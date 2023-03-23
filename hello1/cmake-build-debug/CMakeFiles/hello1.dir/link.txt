@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hello1.dir/main.cpp.o CMakeFiles/hello1.dir/hello.cxx.o -o hello1  /usr/lib/x86_64-linux-gnu/libxerces-c.so 
